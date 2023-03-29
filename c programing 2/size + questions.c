@@ -46,7 +46,8 @@ QUESTION 8:
 EXPLAIN STEP BY STEP EVALUATION OF 3 * X / Y - Z . WHERE X = 2, Y = 3, Z = 3 AND R = 1 .
 
 QUESTION 9 :
-WRITE A PROGRAM TO FIND OUT WHETER A STUDENT IS PASS OR FAIL. IF IT REQIRES TOTAL 40%AND AT LEAST 33% IN EACH SUBJECT TOMPASS. ASSUME 3 SUBJECT AND TAKE MARKS AS AN INPUT FROME THE USER.
+WRITE A PROGRAM TO FIND OUT WHETER A STUDENT IS PASS OR FAIL. IF IT REQIRES TOTAL 40%AND AT LEAST 33% IN EACH SUBJECT TOMPASS. ASSUME 3 SUBJECT AND TAKE MARKS AS AN 
+INPUT FROME THE USER.
 
 
 (COMPLEXIVE PROGRAM.........................................)
@@ -77,4 +78,129 @@ QUESTION 13:
 
 ( GAME:- GUSS THE NUMBER  _______________________________________________________________    )
 
+
+question.
+ Write a program in C to print ASCII values.
+ 
+question.
+Write a program in C to find Size of variables.
+
+QUESTION. 
+Write a program in C to swap two numbers.
+
+QUESTION.
+Write a C program to Perform all Arithmetic Operations on Two Integers in one program.
+
+QUESTION.
+Write a Program in C to Convert specified days into years, weeks and days.
+
+QUESTION.
+Write a C program to calculate perimeter and area of a circle.
+
+QUESTION.
+Write a C program to demonstrate type conversion from to int to char.
+
+QUESTION.
+Write a C program to convert double to int data type.
+
+QUESTION.
+Write a C program to find the largest among four numbers.
+
+QUESTION.
+Write a program in C to find whether a number is even or odd.
+
+QUESTION.
+Write a program in C to find whether a character is vowel or consonant using if statement.
+
+QUESTION.
+C Program to Perform all Arithmetic Operations on Two Integers Using If...else Ladder.
+
+QUESTION.
+Program to Find if a given Year is a Leap Year.
+
+QUESTION.
+Write a Program in C to make a simple Calculator using switch case.
+
+QUESTION.
+Program to enter name of days in a week by enetring number.
+
+QUESTION.
+C program to print a Multiplication table of numbers using a while loop,do while and for loop.
+
+QUESTION.
+C program to add numbers until the user enters 0 using while loop and do-while loop.
+
+QUESTION.
+C program to find the factorial of a number using for loop.
+
+QUESTION.
+C program to find the reverse of a number using do-while.
+
+QUESTION.
+C program to print Fibonacci series using a for loop. 4 f)Write a C program to Check whether entered number is armstrong or not.
+
+QUESTION.
+Write a program in C to store elements in an array and print it.
+
+QUESTION.
+Write a program in C to read n number of values in an array and display it in reverse order.
+
+QUESTION.
+Write a C program to calculate average of array elements.
+
+QUESTION.
+Write a program in C to find the sum of all elements of the array.
+
+QUESTION.
+Write a program in C to find the maximum and minimum element in an array.
+
+QUESTION.
+Write a program in C to separate odd and even integers in separate arrays.
+
+QUESTION.
+Write a program to add two matrices.
+
+QUESTION. 
+Write a program to Multiply two matrix.
+
+QUESTION.
+Write a program to enter two strings and compare these two with strcmp().
+
+QUESTION.
+ Write a program to execute strlen(), strcpy(), strcat(), strncat()
+
+QUESTION.
+Write a program to swap two number using call by reference
+
+QUESTION.
+Write a program to print fibonacci series with the help of user defined function.
+
+QUESTION.
+Write a program in C to print the first 50 natural numbers using
+recursion.
+
+QUESTION.
+Write a program to calculate factorial using recursion.
+
+QUESTION.
+Write a program to print fibonacci series using recursion.
+
+QUESTION.
+Write a program for pointer operations. Declare two pointer variables and perform increment and decrement operations. Also compare two pointer variables.
+
+QUESTION.
+Write a program in c to create a pointer to an array.
+
+QUESTION.
+Write a program in c to create an array of pointers.
+
+QUESTION.
+Create a structure to enter students details i.e student name, Student rollno, student address.
+
+QUESTION.
+Write a C program to create a Structure with name employee and access elements of structure with a pointer variable with arrow operator.
+
+QUESTION.
+Write a C program to create a Structure named distance having feet and inch as its two elements. Then create two structure variables d1 and d2 and add d1 and d2 
+by using call by reference.
 */
